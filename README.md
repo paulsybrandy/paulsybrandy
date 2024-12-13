@@ -52,7 +52,7 @@
 ###
 
 <div align="left"><br>
-<center><a href="https://paulsybrandy.com/badges.html" target="_blank"><img src="https://paulsybrandy.com/images/click-here-for-profile-badges.svg" width="400"></a></center>
+<p style="text-align:center;"><a href="https://paulsybrandy.com/badges.html" target="_blank"><img src="https://paulsybrandy.com/images/click-here-for-profile-badges.svg" width="400"></a></p>
 </div>
 
 ###
