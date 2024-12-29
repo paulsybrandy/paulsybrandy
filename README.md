@@ -40,8 +40,10 @@
 ###
 
 <div align="left"><br>
-<p style="text-align:center;"><a href="https://paulsybrandy.com/badges.html" target="_blank"><img src="https://paulsybrandy.com/images/click-here-for-profile-badges.svg" width="400"></a></p>
-</div>
+<p style="text-align:center;"><a href="https://paulsybrandy.com/badges.html" target="_blank"><br>
+  <div align="center">
+    <img src="https://paulsybrandy.com/images/click-here-for-profile-badges.svg" width="400"></a></p>
+</div></div>
 
 ###
 
