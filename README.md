@@ -67,7 +67,7 @@ const awesome = {
 <hr>
 
     <div align="center">
-<table>
+<table border="0">
   <tr>
 
     <td><img src="https://lastfm-recently-played.vercel.app/api?user=paul-neocube"></td>
