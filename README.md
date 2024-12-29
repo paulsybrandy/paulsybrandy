@@ -40,7 +40,7 @@
 ###
 
 <div align="left"><br>
-<p style="text-align:center;"><a href="https://paulsybrandy.com/badges.html" target="_blank"><br>
+<p style="text-align:center;"><a href="https://paulsybrandy.com/badges.html" target="_blank">
   <div align="center">
     <img src="https://paulsybrandy.com/images/click-here-for-profile-badges.svg" width="400"></a></p>
 </div></div>
@@ -68,10 +68,10 @@ const awesome = {
 
 <table width="100%">
   <tr>
-    <center>
+    <div align="center">
     <td><img src="https://lastfm-recently-played.vercel.app/api?user=paul-neocube"></td>
     <td><img src="https://spotify-recently-played-readme.vercel.app/api?user=tqpgy94he93ysjrpl29jutt6z"</td>
-    </center>
+    </div>
 
 
 ###
