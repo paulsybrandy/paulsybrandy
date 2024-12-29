@@ -64,9 +64,12 @@ const awesome = {
 ```
 <hr>
 
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=paul-neocube)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tqpgy94he93ysjrpl29jutt6z)
-
+<table border="0">
+  <tr>
+    <center>
+    <td>![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=paul-neocube)</td>
+    <td>![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tqpgy94he93ysjrpl29jutt6z)</td>
+    </center>
 
 
 ###
