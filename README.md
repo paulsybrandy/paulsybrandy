@@ -10,8 +10,7 @@
 ###
 
 <img align="right" height="150" src="https://paulsybrandy.com/images/neocube-matrix-code-large.gif"  />
-<br><br><br>
-###
+<br><br>
 <div align="center">
 <h2>My Discord Status</h2>
 <a href="https://discord.com/users/1080950833950244936"><img src="https://lanyard.cnrad.dev/api/1080950833950244936" /></a>
