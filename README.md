@@ -13,7 +13,7 @@
 
 ###
 <div align="center">
-  ## My Discord Status
+## My Discord Status
 <a href="https://discord.com/users/1080950833950244936"><img src="https://lanyard.cnrad.dev/api/1080950833950244936" /></a>
 
 </div>
