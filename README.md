@@ -13,6 +13,9 @@
 
 ###
 
+<a href="https://discord.com/users/1080950833950244936"><img src="https://lanyard.cnrad.dev/api/1080950833950244936" /></a>
+
+
 <table border="0">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" width="28"></td>
