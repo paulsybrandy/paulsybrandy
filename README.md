@@ -6,7 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=paulsybrandy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=paulsybrandy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
 ###
 
 <img align="right" height="150" src="https://paulsybrandy.com/images/neocube-matrix-code-large.gif"  />
@@ -44,9 +43,9 @@
 ###
 
 <div align="left"><br>
-<p style="text-align:center;"><a href="https://paulsybrandy.com/badges.html" target="_blank">
   <div align="center">
-    <img src="https://paulsybrandy.com/images/click-here-for-profile-badges.svg" width="400"></a></p>
+    <p style="text-align:center;"><a href="https://paulsybrandy.com/badges.html" target="_blank">
+<img src="https://paulsybrandy.com/images/click-here-for-profile-badges.svg" width="400"></a></p>
 </div></div>
 
 ###
@@ -76,7 +75,7 @@ const awesome = {
 
     <td><img src="https://lastfm-recently-played.vercel.app/api?user=paul-neocube"></td>
     <td><img src="https://spotify-recently-played-readme.vercel.app/api?user=tqpgy94he93ysjrpl29jutt6z"</td>
-
+    
     </div>
 
 
