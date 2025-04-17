@@ -70,11 +70,8 @@ const awesome = {
 <hr>
 
     <div align="center">
-<table border="0">
-  <tr>
-
-    <td><img src="https://lastfm-recently-played.vercel.app/api?user=paul-neocube"></td>
-    <td><img src="https://spotify-recently-played-readme.vercel.app/api?user=tqpgy94he93ysjrpl29jutt6z"</td>
+<img src="https://lastfm-recently-played.vercel.app/api?user=paul-neocube">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=tqpgy94he93ysjrpl29jutt6z">
     
     </div>
 
