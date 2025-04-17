@@ -68,12 +68,11 @@ const awesome = {
 }
 ```
 <hr>
-
-    <div align="center">
+<h1>Music</h1><br>
+<div style="text-align: center;">
 <img src="https://lastfm-recently-played.vercel.app/api?user=paul-neocube">
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=tqpgy94he93ysjrpl29jutt6z">
-    
-    </div>
+</div>
 
 
 ###
